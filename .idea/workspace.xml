@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66c0bfdc-ea45-4d56-aff5-a87f7faad097" name="Changes" comment="1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {}
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="7ebb6fff-d9b6-4368-82dd-d6a71404563f" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:wooden1234/protect.git&quot;,
+    &quot;accountId&quot;: &quot;7ebb6fff-d9b6-4368-82dd-d6a71404563f&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/anaconda3/envs/pytorch1/lib/python3.8/site-packages/PIL/Image.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/anaconda3/envs/pytorch1/lib/python3.8/site-packages/torch/utils/data/_utils/fetch.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/anaconda3/envs/pytorch1/lib/python3.8/site-packages/torch/utils/data/dataloader.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2OibQBneEOoCt6XldIZjtMHGPGa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.3E_pred_tif.executor": "Run",
+    "Python.CMTFMnet (1).executor": "Run",
+    "Python.CMTFMnet.executor": "Run",
+    "Python.CMTFhornet.executor": "Run",
+    "Python.CMTFnet (1).executor": "Run",
+    "Python.CMTFnet.executor": "Run",
+    "Python.DAnet.executor": "Run",
+    "Python.HorUnet.executor": "Run",
+    "Python.MAnet.executor": "Run",
+    "Python.MobV4Unet.executor": "Run",
+    "Python.NDVI.executor": "Run",
+    "Python.ResNet.executor": "Run",
+    "Python.UNetFormer.executor": "Run",
+    "Python.UnetCMTF.executor": "Run",
+    "Python.build_dataset.executor": "Run",
+    "Python.build_dataset_v1.executor": "Run",
+    "Python.config.executor": "Run",
+    "Python.dataloader.executor": "Run",
+    "Python.deeplabv3_plus.executor": "Run",
+    "Python.enhance.executor": "Run",
+    "Python.helper.executor": "Run",
+    "Python.hocsnet.executor": "Run",
+    "Python.hornet.executor": "Run",
+    "Python.hornet_custom.executor": "Run",
+    "Python.image_enhance.executor": "Run",
+    "Python.images2chips_apple.executor": "Run",
+    "Python.images2chips_merge.executor": "Run",
+    "Python.images_enhance.executor": "Run",
+    "Python.imageschip (1).executor": "Run",
+    "Python.imageschip.executor": "Run",
+    "Python.label-enhance.executor": "Run",
+    "Python.label_enhance (1).executor": "Run",
+    "Python.label_enhance.executor": "Run",
+    "Python.losses.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mobilemamba.executor": "Run",
+    "Python.mobilenet.executor": "Run",
+    "Python.movetestPhoto.executor": "Run",
+    "Python.movetesttxt.executor": "Run",
+    "Python.movevalPhoto.executor": "Run",
+    "Python.movevaltxt.executor": "Run",
+    "Python.overlock.executor": "Run",
+    "Python.pre.executor": "Run",
+    "Python.shaixuan.executor": "Run",
+    "Python.test (1).executor": "Debug",
+    "Python.test.executor": "Run",
+    "Python.timm_test.executor": "Run",
+    "Python.txt_images.executor": "Run",
+    "Python.unet.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/python/unetNew",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.jsOptions",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
+  }
+}]]></component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Bookmarks" side_tool="true" />
+      <window_info id="Merge Requests" />
+      <window_info id="Commit_Guest" />
+      <window_info id="Pull Requests" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32674772" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Python Packages" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info active="true" anchor="bottom" id="Run" visible="true" weight="0.08272633" />
+      <window_info anchor="bottom" id="Find" weight="0.1514658" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems View" order="1" weight="0.28610206" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.15689468" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Endpoints" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Meet New UI" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+    </layout>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\unetNew\util" />
+      <recent name="D:\python\unetNew\mmcv_custom\runner" />
+      <recent name="D:\python\unetNew\mmcv_custom" />
+      <recent name="D:\python\unetNew\networks" />
+      <recent name="D:\python\unetNew\dataset-sample-self\ch4321gf\data_1\train" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\unetNew\modules\backbone" />
+      <recent name="D:\python\unetNew\models" />
+      <recent name="D:\python\unetNew\modules" />
+      <recent name="D:\python\unetNew\modules\attentions" />
+      <recent name="D:\python\unetNew" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hornet">
+    <configuration name="CMTFMnet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/models/CMTFMnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hornet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules/backbone" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules/backbone/hornet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hornet_custom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules/backbone" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules/backbone/hornet_custom.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mobilenet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules/backbone" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules/backbone/mobilenet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="overlock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="unet" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules/backbone" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules/backbone/overlock.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hornet" />
+        <item itemvalue="Python.hornet_custom" />
+        <item itemvalue="Python.overlock" />
+        <item itemvalue="Python.mobilenet" />
+        <item itemvalue="Python.CMTFMnet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66c0bfdc-ea45-4d56-aff5-a87f7faad097" name="Changes" comment="" />
+      <created>1682046332087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682046332087</updated>
+      <workItem from="1682046333199" duration="93000" />
+      <workItem from="1682046440633" duration="2330000" />
+      <workItem from="1682053020334" duration="2503000" />
+      <workItem from="1709533249791" duration="370000" />
+      <workItem from="1709533973027" duration="296000" />
+      <workItem from="1711542295930" duration="1862000" />
+      <workItem from="1711709072155" duration="900000" />
+      <workItem from="1711710097047" duration="122000" />
+      <workItem from="1715087291793" duration="6977000" />
+      <workItem from="1715157641278" duration="1000000" />
+      <workItem from="1715167444795" duration="352000" />
+      <workItem from="1715168262091" duration="297000" />
+      <workItem from="1715170532705" duration="1113000" />
+      <workItem from="1715173559513" duration="1931000" />
+      <workItem from="1715175673470" duration="1456000" />
+      <workItem from="1715180608655" duration="3277000" />
+      <workItem from="1715262226832" duration="1981000" />
+      <workItem from="1715264504647" duration="1900000" />
+      <workItem from="1715266423595" duration="2745000" />
+      <workItem from="1715336012978" duration="2232000" />
+      <workItem from="1715339624420" duration="4340000" />
+      <workItem from="1715416217518" duration="482000" />
+      <workItem from="1715421484815" duration="2080000" />
+      <workItem from="1715431759839" duration="4329000" />
+      <workItem from="1715684592321" duration="702000" />
+      <workItem from="1715685477960" duration="1367000" />
+      <workItem from="1715695892707" duration="1872000" />
+      <workItem from="1715777268518" duration="1248000" />
+      <workItem from="1715833481069" duration="16907000" />
+      <workItem from="1719971113402" duration="10237000" />
+      <workItem from="1720078096215" duration="6936000" />
+      <workItem from="1720107710232" duration="649000" />
+      <workItem from="1720265818863" duration="1070000" />
+      <workItem from="1720269171740" duration="1445000" />
+      <workItem from="1720431811624" duration="173000" />
+      <workItem from="1720612820061" duration="752000" />
+      <workItem from="1720618352578" duration="63000" />
+      <workItem from="1720619266835" duration="65000" />
+      <workItem from="1720619343729" duration="15000" />
+      <workItem from="1720714064982" duration="5180000" />
+      <workItem from="1721270230311" duration="3227000" />
+      <workItem from="1721290021704" duration="406000" />
+      <workItem from="1721554712805" duration="830000" />
+      <workItem from="1722067172212" duration="204000" />
+      <workItem from="1722067648146" duration="233000" />
+      <workItem from="1722068235999" duration="317000" />
+      <workItem from="1722154653711" duration="1498000" />
+      <workItem from="1722495241643" duration="2813000" />
+      <workItem from="1722501411528" duration="35000" />
+      <workItem from="1722589593513" duration="3820000" />
+      <workItem from="1722655471255" duration="3776000" />
+      <workItem from="1722697656731" duration="695000" />
+      <workItem from="1722740169988" duration="2406000" />
+      <workItem from="1722773287278" duration="105000" />
+      <workItem from="1722822705917" duration="2323000" />
+      <workItem from="1722932110163" duration="71000" />
+      <workItem from="1722932221563" duration="8000" />
+      <workItem from="1722946660621" duration="135000" />
+      <workItem from="1723002607811" duration="85000" />
+      <workItem from="1723003305312" duration="737000" />
+      <workItem from="1723011839867" duration="4000" />
+      <workItem from="1723272952404" duration="1529000" />
+      <workItem from="1723711621647" duration="1466000" />
+      <workItem from="1723724386263" duration="1000" />
+      <workItem from="1724139535139" duration="3291000" />
+      <workItem from="1724163037137" duration="151000" />
+      <workItem from="1731987667070" duration="858000" />
+      <workItem from="1732011760626" duration="301000" />
+      <workItem from="1732013473290" duration="675000" />
+      <workItem from="1732015050276" duration="664000" />
+      <workItem from="1736414131500" duration="1281000" />
+      <workItem from="1736415638774" duration="29000" />
+      <workItem from="1736415720562" duration="634000" />
+      <workItem from="1736738104315" duration="653000" />
+      <workItem from="1736752635011" duration="1406000" />
+      <workItem from="1736823938837" duration="459000" />
+      <workItem from="1736824456671" duration="102000" />
+      <workItem from="1739610670817" duration="8249000" />
+      <workItem from="1739679725825" duration="11999000" />
+      <workItem from="1739761009525" duration="4513000" />
+      <workItem from="1739766714366" duration="8176000" />
+      <workItem from="1739796613393" duration="3933000" />
+      <workItem from="1739810983122" duration="2927000" />
+      <workItem from="1739854688369" duration="15122000" />
+      <workItem from="1740051445290" duration="1317000" />
+      <workItem from="1740137574983" duration="850000" />
+      <workItem from="1740138444423" duration="2000" />
+      <workItem from="1740140070329" duration="697000" />
+      <workItem from="1740142079728" duration="966000" />
+      <workItem from="1740145006117" duration="2494000" />
+      <workItem from="1740194134092" duration="358000" />
+      <workItem from="1740399841779" duration="7980000" />
+      <workItem from="1740487670634" duration="10261000" />
+      <workItem from="1740544687967" duration="40961000" />
+      <workItem from="1740664464947" duration="86000" />
+      <workItem from="1740729056021" duration="2151000" />
+      <workItem from="1740980106627" duration="1021000" />
+      <workItem from="1741421224860" duration="1168000" />
+      <workItem from="1741423048771" duration="17000" />
+      <workItem from="1741598393145" duration="8396000" />
+      <workItem from="1742479210502" duration="2222000" />
+      <workItem from="1742481665525" duration="2993000" />
+      <workItem from="1742522832251" duration="4830000" />
+      <workItem from="1742552400776" duration="2252000" />
+      <workItem from="1742986937755" duration="7663000" />
+      <workItem from="1742995483100" duration="4152000" />
+      <workItem from="1743475311217" duration="1246000" />
+      <workItem from="1743476631464" duration="15301000" />
+      <workItem from="1743677278385" duration="34260000" />
+      <workItem from="1744086901706" duration="4627000" />
+      <workItem from="1744101565108" duration="26357000" />
+      <workItem from="1744258216217" duration="2114000" />
+      <workItem from="1744260610147" duration="20266000" />
+      <workItem from="1744341232934" duration="2699000" />
+      <workItem from="1744635748791" duration="4084000" />
+      <workItem from="1744686478479" duration="3603000" />
+      <workItem from="1744692873443" duration="949000" />
+      <workItem from="1744693835220" duration="17030000" />
+      <workItem from="1744772994723" duration="9419000" />
+      <workItem from="1744797701914" duration="1998000" />
+      <workItem from="1744806597079" duration="58000" />
+      <workItem from="1745239241241" duration="979000" />
+      <workItem from="1745299659532" duration="135000" />
+      <workItem from="1745300247904" duration="27010000" />
+      <workItem from="1745470036064" duration="42481000" />
+      <workItem from="1745640015255" duration="14959000" />
+      <workItem from="1745730786464" duration="20748000" />
+      <workItem from="1745835728475" duration="9836000" />
+      <workItem from="1745924507659" duration="1225000" />
+      <workItem from="1746075877154" duration="7000" />
+      <workItem from="1746418759942" duration="2712000" />
+      <workItem from="1746509045108" duration="372000" />
+      <workItem from="1746509574040" duration="2818000" />
+      <workItem from="1746512458837" duration="323000" />
+      <workItem from="1746541497420" duration="104000" />
+      <workItem from="1746621000624" duration="5624000" />
+      <workItem from="1746696000682" duration="12238000" />
+      <workItem from="1746777994758" duration="78000" />
+      <workItem from="1746784039776" duration="1654000" />
+      <workItem from="1746788656332" duration="1501000" />
+      <workItem from="1746869222880" duration="1644000" />
+      <workItem from="1746875613853" duration="618000" />
+      <workItem from="1746886500339" duration="7884000" />
+      <workItem from="1746944236211" duration="11806000" />
+      <workItem from="1747148655613" duration="17625000" />
+      <workItem from="1747290659927" duration="20859000" />
+      <workItem from="1747357417977" duration="5799000" />
+      <workItem from="1747390820510" duration="865000" />
+      <workItem from="1747392276150" duration="10755000" />
+      <workItem from="1747477642943" duration="7778000" />
+      <workItem from="1747535579877" duration="913000" />
+      <workItem from="1747536506563" duration="9116000" />
+      <workItem from="1747654503620" duration="17538000" />
+      <workItem from="1748004420135" duration="26364000" />
+      <workItem from="1748341251292" duration="2098000" />
+      <workItem from="1748349503425" duration="9469000" />
+      <workItem from="1748399974037" duration="8031000" />
+      <workItem from="1748492742596" duration="2657000" />
+      <workItem from="1748753770403" duration="12965000" />
+      <workItem from="1749026189620" duration="12717000" />
+      <workItem from="1749098847993" duration="2870000" />
+      <workItem from="1749387757874" duration="15301000" />
+      <workItem from="1749719679165" duration="1212000" />
+      <workItem from="1749788571578" duration="3314000" />
+      <workItem from="1749900418564" duration="1265000" />
+      <workItem from="1750087233243" duration="11218000" />
+      <workItem from="1750159260703" duration="805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>remoteDeploymentFS://&lt;0b0f1e72-46b7-4747-8a42-b9e2b811ecba&gt;/home/liuzhenyin/anaconda3/envs/wood/lib/python3.9/site-packages/huggingface_hub/file_download.py</url>
+          <line>663</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/networks/DAnet.py</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modules/backbone/hornet.py</url>
+          <line>606</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modules/backbone/hornet.py</url>
+          <line>624</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modules/backbone/hornet.py</url>
+          <line>603</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/util/images2chips_merge.py</url>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modules/attentions/Skip.py</url>
+          <line>337</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/models/MobV4Unet.py</url>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modules/backbone/hornet.py</url>
+          <line>319</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modules/backbone/config/SS2D.py</url>
+          <line>269</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/unetNew$config.coverage" NAME="config 覆盖结果" MODIFIED="1740579741370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$image_enhance.coverage" NAME="image_enhance 覆盖结果" MODIFIED="1740570578767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_util" />
+    <SUITE FILE_PATH="coverage/unetNew$UnetCMTF.coverage" NAME="UnetCMTF 覆盖结果" MODIFIED="1747538628796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/unetNew$main.coverage" NAME="main 覆盖结果" MODIFIED="1747536346470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unetNew$timm_test.coverage" NAME="timm_test 覆盖结果" MODIFIED="1745902694652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unetNew1$movevalPhoto.coverage" NAME="movevalPhoto Coverage Results" MODIFIED="1722155037449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/codetd$test.coverage" NAME="test Coverage Results" MODIFIED="1715944663772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unetNew$imageschip.coverage" NAME="imageschip 覆盖结果" MODIFIED="1740544715420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$helper.coverage" NAME="helper 覆盖结果" MODIFIED="1740658919572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unetNew$enhance.coverage" NAME="enhance 覆盖结果" MODIFIED="1739762419266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$txt_images.coverage" NAME="txt_images 覆盖结果" MODIFIED="1740570742718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew1$test.coverage" NAME="test Coverage Results" MODIFIED="1722496394937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unetNew$MobV4Unet.coverage" NAME="MobV4Unet 覆盖结果" MODIFIED="1745751742337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/code$test.coverage" NAME="test Coverage Results" MODIFIED="1715158228512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unetNew$3E_pred_tif.coverage" NAME="3E_pred_tif 覆盖结果" MODIFIED="1746421068862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unetNew1$unet.coverage" NAME="unet Coverage Results" MODIFIED="1720108086364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/unetNew$images2chips_merge.coverage" NAME="images2chips_merge 覆盖结果" MODIFIED="1745674089523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$dataloader.coverage" NAME="dataloader 覆盖结果" MODIFIED="1739703798477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$CMTFnet.coverage" NAME="CMTFnet 覆盖结果" MODIFIED="1747915465439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/unetNew1$shaixuan.coverage" NAME="shaixuan Coverage Results" MODIFIED="1722154935471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew1$images2chips_apple.coverage" NAME="images2chips_apple Coverage Results" MODIFIED="1722154705461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$DAnet.coverage" NAME="DAnet 覆盖结果" MODIFIED="1746869692523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/code$build_dataset_v1.coverage" NAME="build_dataset_v1 Coverage Results" MODIFIED="1715157945206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$hornet_custom.coverage" NAME="hornet_custom 覆盖结果" MODIFIED="1748360496618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modules/backbone" />
+    <SUITE FILE_PATH="coverage/unetNew$images2chips_apple.coverage" NAME="images2chips_apple 覆盖结果" MODIFIED="1744091628483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$CMTFMnet__1_.coverage" NAME="CMTFMnet (1) 覆盖结果" MODIFIED="1746945261799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/unetNew1$movevaltxt.coverage" NAME="movevaltxt Coverage Results" MODIFIED="1722155030014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/code$images2chips_apple.coverage" NAME="images2chips_apple Coverage Results" MODIFIED="1715157259306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$label_enhance__1_.coverage" NAME="label_enhance (1) 覆盖结果" MODIFIED="1739766858822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$UNetFormer.coverage" NAME="UNetFormer 覆盖结果" MODIFIED="1744291929926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/codetd$images2chips_merge.coverage" NAME="images2chips_merge Coverage Results" MODIFIED="1715434568770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/codetd$images_enhance.coverage" NAME="images_enhance Coverage Results" MODIFIED="1715686969616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$movetesttxt.coverage" NAME="movetesttxt 覆盖结果" MODIFIED="1744101706880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$ResNet.coverage" NAME="ResNet 覆盖结果" MODIFIED="1747915137106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/unetNew$movetestPhoto.coverage" NAME="movetestPhoto 覆盖结果" MODIFIED="1744101744786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$overlock.coverage" NAME="overlock 覆盖结果" MODIFIED="1748105053650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modules/backbone" />
+    <SUITE FILE_PATH="coverage/unetNew$images_enhance_xiangmu.coverage" NAME="images_enhance_xiangmu Coverage Results" MODIFIED="1724163058719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/codetd$images2chips_apple.coverage" NAME="images2chips_apple Coverage Results" MODIFIED="1715944731021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$movevaltxt.coverage" NAME="movevaltxt 覆盖结果" MODIFIED="1744101634658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$NDVI.coverage" NAME="NDVI 覆盖结果" MODIFIED="1736753296141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$label_enhance.coverage" NAME="label-enhance 覆盖结果" MODIFIED="1740569954005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_util" />
+    <SUITE FILE_PATH="coverage/unetNew$HorUnet.coverage" NAME="HorUnet 覆盖结果" MODIFIED="1745644811609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/unet$main.coverage" NAME="main Coverage Results" MODIFIED="1709534106380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$images2chips_merge.coverage" NAME="images2chips_merge Coverage Results" MODIFIED="1711709848567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/codetd$main.coverage" NAME="main Coverage Results" MODIFIED="1715999106301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/codetd$build_dataset_v1.coverage" NAME="build_dataset_v1 Coverage Results" MODIFIED="1715686980187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$CMTFnet__1_.coverage" NAME="CMTFnet (1) 覆盖结果" MODIFIED="1746890314191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/unetNew$mobilenet.coverage" NAME="mobilenet 覆盖结果" MODIFIED="1748104790161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modules/backbone" />
+    <SUITE FILE_PATH="coverage/unetNew$hornet.coverage" NAME="hornet 覆盖结果" MODIFIED="1748423440724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modules/backbone" />
+    <SUITE FILE_PATH="coverage/unetNew$images_enhance.coverage" NAME="images_enhance 覆盖结果" MODIFIED="1744100941582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$CMTFMnet.coverage" NAME="CMTFMnet 覆盖结果" MODIFIED="1747915868252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/unetNew$test.coverage" NAME="test 覆盖结果" MODIFIED="1745766256045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/code$images_enhance.coverage" NAME="images_enhance Coverage Results" MODIFIED="1715157295239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/codetd$shaixuan.coverage" NAME="shaixuan Coverage Results" MODIFIED="1715932420995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew1$deeplabv3_plus.coverage" NAME="deeplabv3_plus Coverage Results" MODIFIED="1720108323090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/unetNew$build_dataset_v1.coverage" NAME="build_dataset_v1 覆盖结果" MODIFIED="1743651665291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/code$dataloader.coverage" NAME="dataloader Coverage Results" MODIFIED="1715157155436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$pre.coverage" NAME="pre 覆盖结果" MODIFIED="1746512369575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unetNew$ABCnet.coverage" NAME="ABCnet Coverage Results" MODIFIED="1722589600160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/unetNew$unet.coverage" NAME="unet 覆盖结果" MODIFIED="1745641790607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/codetd$read.coverage" NAME="read Coverage Results" MODIFIED="1715777470709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$movevalPhoto.coverage" NAME="movevalPhoto 覆盖结果" MODIFIED="1744101676378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$mobilemamba.coverage" NAME="mobilemamba 覆盖结果" MODIFIED="1747580053186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modules/backbone" />
+    <SUITE FILE_PATH="coverage/codetd$tifcut2.coverage" NAME="tifcut2 Coverage Results" MODIFIED="1715341245619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unetNew1$movetesttxt.coverage" NAME="movetesttxt Coverage Results" MODIFIED="1722155034267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/code$main.coverage" NAME="main Coverage Results" MODIFIED="1715240729242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unetNew1$images_enhance.coverage" NAME="images_enhance Coverage Results" MODIFIED="1722154986825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$MAnet.coverage" NAME="MAnet 覆盖结果" MODIFIED="1746869813966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/unet$images2chips_apple.coverage" NAME="images2chips_apple Coverage Results" MODIFIED="1709534037557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$losses.coverage" NAME="losses 覆盖结果" MODIFIED="1739801814750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$build_dataset.coverage" NAME="build_dataset 覆盖结果" MODIFIED="1740492977833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew1$main.coverage" NAME="main Coverage Results" MODIFIED="1721271494337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/unetNew$imageschip__1_.coverage" NAME="imageschip (1) 覆盖结果" MODIFIED="1740570247936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_util" />
+    <SUITE FILE_PATH="coverage/unetNew1$movetestPhoto.coverage" NAME="movetestPhoto Coverage Results" MODIFIED="1722155041550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$shaixuan.coverage" NAME="shaixuan 覆盖结果" MODIFIED="1744101575028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/util" />
+    <SUITE FILE_PATH="coverage/unetNew$CMTFhornet.coverage" NAME="CMTFhornet 覆盖结果" MODIFIED="1747479336525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+    <SUITE FILE_PATH="coverage/unetNew$deeplabv3_plus.coverage" NAME="deeplabv3_plus 覆盖结果" MODIFIED="1745327036423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/networks" />
+    <SUITE FILE_PATH="coverage/unetNew$hocsnet.coverage" NAME="hocsnet 覆盖结果" MODIFIED="1747577044901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/models" />
+  </component>
+</project>
